@@ -19,3 +19,11 @@ Process configuration, define cloud development templates, and quickly build a d
 ### 🌲 Development Environment Management 
 
 Standardized development environment. Create, share, copy management.
+
+## Community
+- GitHub Discussions: click [link](https://github.com/gcodecloud/geekcode.cloud/discussions)
+ to join
+- Lark/Feishu Group: click [link](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=381ma10a-4d3f-473c-acd4-ff238c12153a) to join
+- Telegram Group: click [link](https://t.me/GeekCodeCloud) to join
+- Twitter: https://twitter.com/GeekCodeCloud
+- Medium: https://medium.com/@geekcode
