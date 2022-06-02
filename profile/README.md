@@ -1,4 +1,6 @@
 ## Hi there 👋 | [wiki](https://github.com/gcodecloud/geekcode.cloud/wiki)
+## What is GeekCode?
+💻 GeekCode Cloud is a service that provides a cloud development environment, providing online programming, compilation, and collaboration functions.
 ## GeekCode.Cloud Features
 
 ### 🚀 Compile Boost 
