@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 | [wiki](https://github.com/gcodecloud/geekcode.cloud/wiki)
 ## GeekCode.Cloud Features
 
 ### 🚀 Compile Boost 
