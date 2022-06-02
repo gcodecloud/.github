@@ -1,6 +1,5 @@
 ## Hi there 👋
-##  What is Cloud IDE
-Cloud IDEs are integrated development environments based in the cloud. IDEs let you write run and debug your code. Typicaly developers set up IDEs on their local machine, but Cloud-based IDEs allow you to develop software with just a browser.
+## GeekCode.Cloud Features
 
 ### 🚀 Compile Boost 
 
