@@ -1,3 +1,22 @@
+<p align="center">
+  <a href="https://geekcode.cloud">
+   <img alt="GeekCode.cloud" src="https://user-images.githubusercontent.com/1196420/172147988-1f3f804f-5776-462e-9d88-9f1f6724ee6e.png" />
+  </a>
+</p>
+
+<div align="center">
+ 
+[![GitHubStars][g1]][g2]
+[![Twitter][t1]][t2]
+
+[g1]: https://img.shields.io/github/stars/gcodecloud/geekcode.cloud?style=flat-square&label=Stars
+[g2]: https://github.com/gear-tech/gear
+
+[t1]: https://img.shields.io/twitter/follow/GeekCodeCloud?style=social
+[t2]: https://twitter.com/GeekCodeCloud
+ 
+</div>
+ 
 ## Hi there 👋 | [wiki](https://github.com/gcodecloud/geekcode.cloud/wiki)
 ## What is GeekCode?
 💻 GeekCode Cloud is a service that provides a cloud development environment, providing online programming, compilation, and collaboration functions.
