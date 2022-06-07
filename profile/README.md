@@ -10,7 +10,7 @@
 [![Twitter][t1]][t2]
 
 [g1]: https://img.shields.io/github/stars/gcodecloud/geekcode.cloud?style=flat-square&label=Stars
-[g2]: https://github.com/gear-tech/gear
+[g2]: https://github.com/gcodecloud/geekcode.cloud
 
 [t1]: https://img.shields.io/twitter/follow/GeekCodeCloud?style=social
 [t2]: https://twitter.com/GeekCodeCloud
