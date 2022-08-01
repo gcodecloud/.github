@@ -27,6 +27,9 @@
 
 When compiling the code, the host configuration is hot updated, and the number of CPUs and memory size are increased to improve the compilation speed.
 
+### 🐈 Instant Dev
+
+Build the development environment immediately
 
 ### 🔗 Dev URL 
 
